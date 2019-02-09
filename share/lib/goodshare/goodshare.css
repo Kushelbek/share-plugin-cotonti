@@ -8,6 +8,10 @@
         url('../../fonts/share.woff2') format('woff2');
 }
 
+.goodshare [hidden] {
+    display: none !important
+}
+
 .goodshare {
     display: flex;
     flex-wrap: wrap;
@@ -53,6 +57,7 @@
     display: inline-flex;
     flex-wrap: wrap;
     padding-right: 34px;
+    position: relative;
 }
 
 .goodshare.sh-medi .share-visible {
