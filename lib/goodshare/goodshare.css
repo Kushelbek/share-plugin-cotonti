@@ -195,10 +195,6 @@
 [data-social=moimir] {background: #168de2}
 [data-social=moimir]::before {content: '\e800'}
 
-/* Google plus */
-[data-social=googleplus] {background: #dd4b39}
-[data-social=googleplus]::before {content: '\e801'}
-
 /* Twitter */
 [data-social=twitter] {background: #55acee}
 [data-social=twitter]::before {content: '\e813'}
@@ -235,9 +231,9 @@
 [data-social=buffer] {background: #323b43}
 [data-social=buffer]::before {content: '\e817'}
 
-/* StumbleUpon */
-[data-social=stumbleupon] {background: #eb4924}
-[data-social=stumbleupon]::before {content: '\e809'}
+/* Mix */
+[data-social=mix] {background: #dd4b39}
+[data-social=mix]::before {content: '\f34b'}
 
 /* Pocket */
 [data-social=pocket] {background: #d3505a}
@@ -307,3 +303,7 @@
 /* SMS */
 [data-social=sms] {background: #3198be}
 [data-social=sms]::before {content: '\e804'}
+
+/* Wechat */
+[data-social=wechat] {background: #4c9a0f}
+[data-social=wechat]::before {content: '\f1d7'}

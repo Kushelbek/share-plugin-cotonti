@@ -11,7 +11,7 @@ Tags=footer.tpl:{FOOTER_RC}
  *
  * @author Roffun
  * @copyright (c) CmsCot.net, 2017 - TO THIS DAY & ABOVE. All rights reserved.
- * @license BSD License, https://github.com/Roffun/share-plugin-cotonti/blob/master/LICENSE
+ * @license BSD License, https://github.com/Roffun/share-plugin-cotonti/blob/master/LICENSE.txt
  **/
 
 defined('COT_CODE') or die('Wrong URL.');

@@ -5,11 +5,11 @@ Code=share
 Name=Share
 Category=community-social
 Description=Share content in social networks
-Version=2.0.6
-Date=09-02-2019
+Version=2.0.7
+Date=16-04-2019
 Author=Roffun
 Copyright=copyright (c) CmsCot.net, 2017 - TO THIS DAY & ABOVE. All rights reserved
-Notes=BSD License, https://github.com/Roffun/share-plugin-cotonti/blob/master/LICENSE
+Notes=BSD License, https://github.com/Roffun/share-plugin-cotonti/blob/master/LICENSE.txt
 Auth_guests=R
 Lock_guests=12345A
 Auth_members=R
@@ -29,7 +29,7 @@ css=99:radio::1:
  *
  * @author Roffun
  * @copyright (c) CmsCot.net, 2017 - TO THIS DAY & ABOVE. All rights reserved.
- * @license BSD License, https://github.com/Roffun/share-plugin-cotonti/blob/master/LICENSE
+ * @license BSD License, https://github.com/Roffun/share-plugin-cotonti/blob/master/LICENSE.txt
  **/
 
 defined('COT_CODE') or die('Wrong URL.');
